@@ -1,0 +1,13 @@
+Transcript,Summary,Sentiment
+"Hi, I was trying to book a slot yesterday but the payment failed…",The customer is contacting the service team because their payment failed while trying to book a slot. They are likely seeking assistance with completing the booking.,negative
+"Customer: I just wanted to say thank you for the excellent service I received last week.
+Agent: You're welcome! We're glad to hear that.
+Customer: Yes, the representative was very helpful and resolved my issue quickly.
+Agent: That's great to hear. Is there anything else we can help you with?",The customer is thanking the company for excellent service received from a representative who helped resolve their issue quickly. The customer expresses satisfaction with the service. The agent responds positively and offers further assistance.,positive
+"Customer: I need to update my billing information. My credit card expired and I received a notification to update it.
+
+Agent: Certainly, I can help with that. Can you verify your account with your date of birth?
+
+Customer: It's January 15, 1985. I'd like to use my new Visa card ending in 4321.
+
+Agent: Thank you, I've updated your payment method. Is there anything else I can help with today?","The customer needs to update their billing information due to an expired credit card and the agent assists them in updating it with a new Visa card. The update is successfully completed, and the agent offers further assistance. The customer does not express any issues or complaints beyond the initial request.",positive
